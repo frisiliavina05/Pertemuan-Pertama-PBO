@@ -13,4 +13,5 @@ Encapsulation adalah salah satu prinsip dasar dalam Pemrograman Berorientasi Obj
 
 # Setter dan Getter
 -Setter adalah metode dalam Pemrograman Berorientasi Objek (OOP) yang digunakan untuk mengatur atau mengubah nilai dari atribut (data) yang bersifat private dalam sebuah kelas. Setter biasanya dinamai dengan awalan set, diikuti dengan nama atribut yang ingin diubah.
+
 -Getter adalah metode dalam Pemrograman Berorientasi Objek (OOP) yang digunakan untuk mengambil atau mengakses nilai dari atribut (data) yang bersifat private dalam sebuah kelas Getter biasanya dinamai dengan awalan get, diikuti dengan nama atribut yang ingin diakses.
