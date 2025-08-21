@@ -10,3 +10,7 @@ Extends adalah kata kunci dalam bahasa pemrograman berorientasi objek yang digun
 
 # Encapsulation
 Encapsulation adalah salah satu prinsip dasar dalam Pemrograman Berorientasi Objek (OOP) yang mengacu pada pembungkusan data (atribut) dan perilaku (metode) dalam satu unit, yaitu objek. Konsep ini bertujuan untuk melindungi data dari akses langsung dan modifikasi yang tidak diinginkan, serta menyediakan antarmuka yang jelas untuk berinteraksi dengan data tersebut.
+
+# Setter dan Getter
+Setter adalah metode dalam Pemrograman Berorientasi Objek (OOP) yang digunakan untuk mengatur atau mengubah nilai dari atribut (data) yang bersifat private dalam sebuah kelas. Setter biasanya dinamai dengan awalan set, diikuti dengan nama atribut yang ingin diubah.
+Getter adalah metode dalam Pemrograman Berorientasi Objek (OOP) yang digunakan untuk mengambil atau mengakses nilai dari atribut (data) yang bersifat private dalam sebuah kelas Getter biasanya dinamai dengan awalan get, diikuti dengan nama atribut yang ingin diakses.
